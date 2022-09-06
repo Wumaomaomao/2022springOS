@@ -5,3 +5,7 @@ NJU2022springOS &ensp; &ensp;
 ## 个人整理知识提纲
 ## 课后作业
 ## 编程作业
+临界区管理的实现——Peterson&Dekker算法
+自旋锁的实现xchg
+优先级反置重现
+扫描根目录下的硬链接文件
